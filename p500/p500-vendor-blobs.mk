@@ -23,7 +23,6 @@
 PRODUCT_COPY_FILES += \
     vendor/lge/p500/proprietary/lib/libmmipl.so:obj/lib/libmmipl.so \
     vendor/lge/p500/proprietary/lib/libmmjpeg.so:obj/lib/libmmjpeg.so \
-    vendor/lge/p500/proprietary/lib/libcamera.so:obj/lib/libcamera.so \
     vendor/lge/p500/proprietary/lib/liboemcamera.so:obj/lib/liboemcamera.so
 
 
@@ -61,7 +60,6 @@ PRODUCT_COPY_FILES += \
     vendor/lge/p500/proprietary/lib/libsnd.so:system/lib/libsnd.so \
     vendor/lge/p500/proprietary/lib/libaudioeq.so:system/lib/libaudioeq.so \
     vendor/lge/p500/proprietary/lib/liboemcamera.so:system/lib/liboemcamera.so \
-    vendor/lge/p500/proprietary/lib/libcamera.so:system/lib/libcamera.so \
     vendor/lge/p500/proprietary/lib/libmmjpeg.so:system/lib/libmmjpeg.so \
     vendor/lge/p500/proprietary/lib/libmmipl.so:system/lib/libmmipl.so \
     vendor/lge/p500/proprietary/etc/firmware/BCM4325D1_004.002.004.0218.0248.hcd:system/etc/firmware/BCM4325D1_004.002.004.0218.0248.hcd \
